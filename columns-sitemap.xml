@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://hansungshowcase.kr/board/free/list.html?board_no=3</loc>
-    <lastmod>2026-08-27</lastmod>
+    <lastmod>2026-08-28</lastmod>
   </url>
   <url>
     <loc>https://hansungshowcase.kr/article/%EC%9E%90%EC%A3%BC%EB%AC%BB%EB%8A%94-%EC%A7%88%EB%AC%B8/3/5759/</loc>
@@ -1106,6 +1106,34 @@
     </image:image>
     <image:image>
       <image:loc>https://ecimg.cafe24img.com/pg1319b62093910029/hansungshowcase/web/product/extra/big/20250611/1525ecbd49772cc8dbd7fc4bee19bbc0.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://hansungshowcase.kr/article/%EC%9E%90%EC%A3%BC%EB%AC%BB%EB%8A%94-%EC%A7%88%EB%AC%B8/3/5856/</loc>
+    <lastmod>2026-08-28</lastmod>
+    <image:image>
+      <image:loc>https://ecimg.cafe24img.com/pg1319b62093910029/hansungshowcase/web/product/big/20250611/01bd7500232b6e62946ae3530f779d47.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ecimg.cafe24img.com/pg1319b62093910029/hansungshowcase/web/product/big/20260707/bdda233564a01cc416ecb97433a6bff8.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ecimg.cafe24img.com/pg1319b62093910029/hansungshowcase/web/product/big/20260507/955495b39e572c1f056bdbbbd365a01e.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ecimg.cafe24img.com/pg1319b62093910029/hansungshowcase/web/product/big/20250731/bbfe9c7c803a5071cf3241798bd1e31c.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ecimg.cafe24img.com/pg1319b62093910029/hansungshowcase/web/product/big/20260223/7b8373625978ded22a667aae47a1bc0c.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ecimg.cafe24img.com/pg1319b62093910029/hansungshowcase/web/product/extra/big/20250611/3781b91ddf2331a3aa6dd71530f72e63.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ecimg.cafe24img.com/pg1319b62093910029/hansungshowcase/web/product/extra/big/20260707/82a3dc5e5203506a71bdd51c40e03a63.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ecimg.cafe24img.com/pg1319b62093910029/hansungshowcase/web/product/extra/big/20260507/6b76e96c719323dc9303bec3bcc3740a.png</image:loc>
     </image:image>
   </url>
 </urlset>
